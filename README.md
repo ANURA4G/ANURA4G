@@ -86,9 +86,8 @@ I like to:
 ### 🔗 Connect with Me
 
 - [Instagram](https://www.instagram.com/shades_on_sun?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D)
-- [LinkedIn](www.linkedin.com/in/anuraag-rai-s-a605a0312)
-- [Mail](Anuraag4032@gmail.com)
-
+- [LinkedIn](https://www.linkedin.com/in/anuraag-rai-s-a605a0312/)
+ 
 ---
 
 ### 👁 Viewer Count
