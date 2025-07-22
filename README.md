@@ -73,12 +73,11 @@ I like to:
 ### 📈 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ANURA4G&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&custom_title=ANURAAG's GitHub Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ANURA4G&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ANURA4G&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" width="48%" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANURA4G&layout=compact&theme=tokyonight&hide_border=false" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANURA4G&layout=compact&theme=tokyonight&hide_border=false" width="45%" />
 
 </div>
 
