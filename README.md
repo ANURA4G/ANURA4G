@@ -18,22 +18,6 @@ I like to:
 - Observe how **businesses grow** from scratch — especially from a ground-level perspective    
 ---
 
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" width="10%"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" width="5%"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" width="10%"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" width="10%"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" width="10%"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white" width="10%"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" width="10%" />
-</p>
-
-<!-- HEADER GIF (TOP) -->
-
----
-
 <div align="center">
   <table>
     <tr>
